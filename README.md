@@ -73,16 +73,12 @@ Competitive Programmer • MERN Stack Developer
 
 <p align="center">
 
-<a href="https://codeforces.com/profile/amitak17">
-<img src="https://img.shields.io/badge/Codeforces-Expert%20(Peak%201651)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/u/24CS01005/">
-<img src="https://img.shields.io/badge/LeetCode-Knight%20(Peak%202039)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-
-<a href="https://www.codechef.com/users/amitak17">
-<img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge">
+<a href="https://codeforces.com/profile/amitak17" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Codeforces-Expert%20(Peak%201651)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+</a><a href="https://leetcode.com/u/24CS01005/" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LeetCode-Knight%20(Peak%202039)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a><a href="https://www.codechef.com/users/amitak17" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/CodeChef-4★%20(Peak%201809)-5B4638?style=for-the-badge" alt="CodeChef">
 </a>
 
 </p>
