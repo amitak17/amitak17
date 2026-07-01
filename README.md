@@ -19,16 +19,6 @@ Competitive Programmer • MERN Stack Developer
 - 🌱 Always exploring new technologies and solving algorithmic problems
 - 🎯 Aspiring Software Engineer
 
----
-
-## 📫 Connect with Me
-
-<p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/amitak17"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="https://codeforces.com/profile/amitak17"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"></a>
-<a href="https://leetcode.com/u/24CS01005/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
-</p>
 
 
 
@@ -102,6 +92,19 @@ Competitive Programmer • MERN Stack Developer
 <img src="https://img.shields.io/badge/Problems%20Solved-1500+-00BFFF?style=for-the-badge">
 
 
+
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/amitak17"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="https://codeforces.com/profile/amitak17"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"></a>
+<a href="https://www.codechef.com/users/amitak17"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"> </a>
+<a href="https://leetcode.com/u/24CS01005/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+</p>
 
 
 
