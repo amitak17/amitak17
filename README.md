@@ -5,9 +5,6 @@
 
 <h3 align="center">B.Tech in Computer Science Engineering @ IIT Bhubaneswar</h3>
 
-<p align="center">
-Competitive Programmer • MERN Stack Developer
-</p>
 
 ---
 
@@ -25,7 +22,7 @@ Competitive Programmer • MERN Stack Developer
 
 ## 💻 Tech Stack
 
-<p align="center"><strong>Languages</strong></p>
+<p align="center"><strong>💻 Languages</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -34,7 +31,7 @@ Competitive Programmer • MERN Stack Developer
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-<p align="center"><strong>Frontend</strong></p>
+<p align="center"><strong>🌐 Frontend</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -42,20 +39,20 @@ Competitive Programmer • MERN Stack Developer
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center"><strong>Backend</strong></p>
+<p align="center"><strong>⚙️ Backend</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
 </p>
 
-<p align="center"><strong>Database</strong></p>
+<p align="center"><strong>🗄️ Database</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<p align="center"><strong>Tools</strong></p>
+<p align="center"><strong>🛠️ Tools</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -63,6 +60,10 @@ Competitive Programmer • MERN Stack Developer
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+
+
+---
 
 
 
@@ -81,7 +82,7 @@ Competitive Programmer • MERN Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-1500%2B-00BFFF?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/1500%2B-Problems%20Solved-00BFFF?style=for-the-badge">
 </p>
 
 
@@ -93,7 +94,7 @@ Competitive Programmer • MERN Stack Developer
 
 
 
-## 🏆 Achievements</h2>
+## 🏆 Achievements
 
 - 🥈 **ICPC 2025 Prelims** — **Rank 208**, [**Team Sigma**](https://icpc.global/ICPCID/VUNFXCPGLOFA) · [Official Standings](https://amritaicpc.in/prelims-ranklist)
 
