@@ -87,15 +87,14 @@ Competitive Programmer • MERN Stack Developer
 ---
 
 
-## 🏆 Achievements
+
+
 
 ## 🏆 Achievements
 
-- 🥈 **ICPC 2025 Prelims** — Secured **Rank 208** as a member of **Team Sigma**.  
-  🔗 [Official Standings](https://amritaicpc.in/prelims-ranklist)
+- 🥈 **ICPC 2025 Prelims** — **Rank 208**, [**Team Sigma**](https://icpc.global/ICPCID/VUNFXCPGLOFA) · [Official Standings](https://amritaicpc.in/prelims-ranklist)
 
-- 🥉 **IICPC Codefest 2026 Prelims** — Secured **Rank 687**.  
-  🔗 [Official Standings](https://www.codechef.com/rankings/CDFEST2026?itemsPerPage=100&order=asc&page=1&search=cdfst_26_0701&sortBy=rank)
+- 🥉 **IICPC Codefest 2026 Prelims** — **Rank 687** · [Official Standings](https://www.codechef.com/rankings/CDFEST2026?itemsPerPage=100&order=asc&page=1&search=cdfst_26_0701&sortBy=rank)
 
 
 ---
