@@ -73,9 +73,9 @@ Competitive Programmer • MERN Stack Developer
 
 <p align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20(Peak%201651)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amitak17)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20(Peak%202039)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/24CS01005/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20(Peak%201673)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amitak17)
 [![CodeChef](https://img.shields.io/badge/CodeChef-4★%20(Peak%201809)-5B4638?style=for-the-badge)](https://www.codechef.com/users/amitak17)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20(Peak%202039)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/24CS01005/)
 
 <p align="center">
 
@@ -89,8 +89,13 @@ Competitive Programmer • MERN Stack Developer
 
 ## 🏆 Achievements
 
-- 🥈 **ICPC 2025 Prelims** — Secured **Rank 208** as a member of Team Sigma.
-- 🥉 **IICPC Codefest 2026 Prelims** — Secured **Rank 687** (after plagiarism removals).
+## 🏆 Achievements
+
+- 🥈 **ICPC 2025 Prelims** — Secured **Rank 208** as a member of **Team Sigma**.  
+  🔗 [Official Standings](https://amritaicpc.in/prelims-ranklist)
+
+- 🥉 **IICPC Codefest 2026 Prelims** — Secured **Rank 687**.  
+  🔗 [Official Standings](https://www.codechef.com/rankings/CDFEST2026?itemsPerPage=100&order=asc&page=1&search=cdfst_26_0701&sortBy=rank)
 
 
 ---
