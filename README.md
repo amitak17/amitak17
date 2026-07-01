@@ -19,7 +19,7 @@ Competitive Programmer • MERN Stack Developer
 
 ## 📫 Connect with Me
 
-- Email: YOUR_EMAIL
-- LinkedIn: YOUR_LINKEDIN
-- Codeforces: YOUR_CODEFORCES
-- LeetCode: YOUR_LEETCODE
+- Email: 24cs01005@iitbbs.ac.in
+- LinkedIn: https://www.linkedin.com/in/amit-kumar-542253301/
+- Codeforces: https://codeforces.com/profile/amitak17
+- LeetCode: https://leetcode.com/u/24CS01005/
