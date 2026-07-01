@@ -79,11 +79,28 @@ Competitive Programmer • MERN Stack Developer
 
 ---
 
-## 🏆 Competitive Programming
+## 🧠 Competitive Programming
 
-- ⭐ **Codeforces Expert** (Peak Rating: **1651**)
-- 🥇 **ICPC Codefest Prelims 2025:** Rank **687**
-- 💯 Solved **2000+** problems across Codeforces, LeetCode, CodeChef and other platforms.
+<p align="center">
+
+<a href="https://codeforces.com/profile/amitak17">
+<img src="https://img.shields.io/badge/Codeforces-Expert%20(Peak%201651)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/24CS01005/">
+<img src="https://img.shields.io/badge/LeetCode-Knight%20(Peak%202039)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://www.codechef.com/users/amitak17">
+<img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Problems%20Solved-1500+-00BFFF?style=for-the-badge">
+
 
 
 
