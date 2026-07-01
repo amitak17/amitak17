@@ -81,7 +81,6 @@ Competitive Programmer • MERN Stack Developer
   <img src="https://img.shields.io/badge/CodeChef-4★%20(Peak%201809)-5B4638?style=for-the-badge" alt="CodeChef">
 </a>
 
-</p>
 
 <p align="center">
 
